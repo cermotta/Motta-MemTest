@@ -9,7 +9,7 @@ Utilitário avançado desenvolvido em Python para diagnóstico de memória RAM, 
 ### Menu Principal e Informações
 * Interface principal estilizada em cores com suporte a execução direta, diagnóstico de hardware e monitoramento de memória.
 
-<img width="979" height="512" alt="image" src="COLE_O_LINK_DA_SUA_IMAGEM_AQUI" />
+<img width="979" height="512" alt="image" src="https://github.com/user-attachments/assets/cf37b80c-ab13-4ef4-b24d-3ceb989d85b6" />
 
 ---
 
